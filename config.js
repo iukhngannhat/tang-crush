@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Tai vi',
     reply: 'de thuong nhu phuong thao ai lai ko iu co chu',
     mess: ' dạ chị cũng tự bic iu em nhiuuuu',
-    messDesc: 'nhan dip 8/3 chi co doi loi mun gui den em neeee',
+    messDesc: 'nhan dip 8/3 chi co doi loi mun gui den em neeee ',
     btnAccept: 'iukns1',
     messLink: 'https://iukhngannhat.github.io/mung8thang3emrathamvuon/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
